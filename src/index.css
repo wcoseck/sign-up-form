@@ -1,0 +1,17 @@
+body {
+  align-items: center;
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  color: rgb(255, 0, 0);
+  background-color: rgba(225, 223, 223, 0.757);
+}
